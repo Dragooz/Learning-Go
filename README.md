@@ -3,9 +3,9 @@
 > **From Django Full-Stack Developer to Production-Ready Go Engineer**  
 > 8-week intensive learning plan with public documentation
 
-**Start Date:** 6/10/2025
-**Target Completion:** 6/12/2025  
-**Time Commitment:** ~1-3 hours/days (Depends)
+**Start Date:** ~~6/10/2025~~ 13/10/2025
+**Target Completion:** 13/12/2025  
+**Time Commitment:** ~30mins~1 hour/days (Depends)
 
 ---
 
@@ -364,3 +364,8 @@ _To be filled after completing 8 weeks_
 **Last Updated:** `[date]`  
 **Current Week:** `[week number]`  
 **Status:** 🟢 On Track | 🟡 Behind Schedule | 🔴 Need Help
+
+MY TODO:
+
+1. Learn what does the first task did.
+2. Learn what is go mod tidy.

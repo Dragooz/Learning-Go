@@ -1,0 +1,22 @@
+audio:
+    chunk_size_seconds: 3
+    sample_rate: 44100
+    bit_depth: 16
+    channels: 2
+
+speech_recognition:
+    primary_service: "vosk"
+    fallback_service: "openai"
+    language: "zh-CN"
+
+api_keys:
+    openai: "" # Add your OpenAI API key here
+
+ui:
+    colored_output: true
+    show_timestamps: true
+    clear_screen_on_start: false
+
+logging:
+    level: "info"
+    file: "transcriber.log"
